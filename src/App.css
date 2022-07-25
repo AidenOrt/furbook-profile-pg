@@ -5,3 +5,22 @@
 .row {
   margin: 2rem
 }
+
+.container {
+    display: flex;
+    /*margin: 2rem;*/
+  
+    
+   
+}
+
+.container > div {
+   
+    width: 1050px;
+    margin: 12px;
+    text-align: center;
+    
+   
+   
+  }
+

@@ -1,0 +1,16 @@
+.AboutBox{
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    padding: 1rem;
+    border-radius: 10px;
+    
+
+  }
+.list-group-item{
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    padding: 1rem;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
